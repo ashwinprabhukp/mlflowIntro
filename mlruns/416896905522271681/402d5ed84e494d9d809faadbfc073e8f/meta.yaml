@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/JupyterNotebooks/mlruns/416896905522271681/402d5ed84e494d9d809faadbfc073e8f/artifacts
+end_time: 1677248240543
+entry_point_name: ''
+experiment_id: '416896905522271681'
+lifecycle_stage: active
+run_id: 402d5ed84e494d9d809faadbfc073e8f
+run_name: sedate-cow-930
+run_uuid: 402d5ed84e494d9d809faadbfc073e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677248221178
+status: 3
+tags: []
+user_id: Ashwin

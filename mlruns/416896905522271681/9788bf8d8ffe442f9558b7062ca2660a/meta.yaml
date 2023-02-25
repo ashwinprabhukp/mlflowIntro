@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/JupyterNotebooks/mlruns/416896905522271681/9788bf8d8ffe442f9558b7062ca2660a/artifacts
+end_time: 1677249573829
+entry_point_name: ''
+experiment_id: '416896905522271681'
+lifecycle_stage: active
+run_id: 9788bf8d8ffe442f9558b7062ca2660a
+run_name: manguli
+run_uuid: 9788bf8d8ffe442f9558b7062ca2660a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677249569774
+status: 1
+tags: []
+user_id: Ashwin

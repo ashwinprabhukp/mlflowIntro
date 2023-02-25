@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/JupyterNotebooks/mlruns/980034995870240508/4ac1403ab9834b8b895e945333ce94e9/artifacts
+deleted_time: 1677267113783
+end_time: 1677266877138
+entry_point_name: ''
+experiment_id: '980034995870240508'
+lifecycle_stage: deleted
+run_id: 4ac1403ab9834b8b895e945333ce94e9
+run_name: abrasive-calf-873
+run_uuid: 4ac1403ab9834b8b895e945333ce94e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677266859324
+status: 3
+tags: []
+user_id: Ashwin
